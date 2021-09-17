@@ -6,12 +6,12 @@
 
 Here are some ideas to get you started:
 
-- 🧑🏻‍💻 I’m currently working on 望京
+- 🧑🏻‍💻 I’m currently working on 上地
 - 🌱 I’m currently learning Cloud Native
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Golang
 - 💬 Ask me about ...
 - 📫 How to reach me: sipei@163.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Matt.Pei
 - ⚡ Fun fact: ...
 
